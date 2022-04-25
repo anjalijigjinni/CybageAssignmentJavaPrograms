@@ -7,6 +7,7 @@ public class StringReverse {
 		
 		String str, reverse = "";
 		System.out.println("Enter your string");
+		System.out.println("AAYUSH");
 		Scanner sc = new Scanner(System.in);
 		str = sc.next();
 		for (int i = str.length() - 1; i >= 0; i--) {
